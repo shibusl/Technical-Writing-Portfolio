@@ -43,8 +43,7 @@ A Standard Operating Procedure (SOP) documenting the employee leave request, app
 - Roles & Responsibilities Definition
 - Governance Documentation
 
-📂 Location:
-SOPs/Employee Leave Management Process_SOP.pdf
+📥 [View SOP](SOPs/Employee%20Leave%20Management%20Process_SOP.pdf)
 
 ---
 
@@ -60,8 +59,7 @@ A Knowledge Base article designed to help users recover account access through p
 - Security Documentation
 - Self-Service Support Content
 
-📂 Location:
-Knowledge_Base/Knowledge Base Guide.pdf
+📥 Knowledge_Base/Knowledge%20Base%20Guide.pdf
 
 ---
 

@@ -60,6 +60,7 @@ A Knowledge Base article designed to help users recover account access through p
 - Self-Service Support Content
 
 📥 [View Knowledge Base Guide](Knowledge_Base/Knowledge%20Base%20Guide.pdf)
+
 ---
 
 # Current Portfolio Roadmap

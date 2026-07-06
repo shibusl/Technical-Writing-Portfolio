@@ -106,7 +106,7 @@ https://www.linkedin.com/in/shibu-s-l
 
 ### Email
 
-slshibu06@gmail.com
+slshibu2000@gmail.com
 
 ---
 

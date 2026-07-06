@@ -61,6 +61,10 @@ A Knowledge Base article designed to help users recover account access through p
 
 📥 [View Knowledge Base Guide](Knowledge_Base/Knowledge%20Base%20Guide.pdf)
 
+# Resume
+
+📄 [Download Resume](Resume/Shibu_SL_Technical_Writer)
+
 ---
 
 # Current Portfolio Roadmap

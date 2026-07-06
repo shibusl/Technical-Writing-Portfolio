@@ -61,9 +61,9 @@ A Knowledge Base article designed to help users recover account access through p
 
 📥 [View Knowledge Base Guide](Knowledge_Base/Knowledge%20Base%20Guide.pdf)
 
-# Resume
+## 📄 Resume
 
-📄 [Download Resume](Resume/Shibu%20S%20L_Resume.pdf)
+📥 [Download Resume](Resume/Shibu%20S%20L_Resume.pdf)
 
 ---
 

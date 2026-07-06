@@ -63,7 +63,7 @@ A Knowledge Base article designed to help users recover account access through p
 
 # Resume
 
-📄 [Download Resume](Resume/Shibu_SL_Technical_Writer)
+📄 [Download Resume](Resume/Shibu%20S%20L_Resume.pdf)
 
 ---
 

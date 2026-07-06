@@ -59,8 +59,7 @@ A Knowledge Base article designed to help users recover account access through p
 - Security Documentation
 - Self-Service Support Content
 
-📥 [View Knowledge Base](Knowledge_Base/Knowlegde%20Base%20Guide%20.pdf)
-
+📥 [View Knowledge Base Guide](Knowledge_Base/Knowledge%20Base%20Guide.pdf)
 ---
 
 # Current Portfolio Roadmap

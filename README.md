@@ -59,7 +59,7 @@ A Knowledge Base article designed to help users recover account access through p
 - Security Documentation
 - Self-Service Support Content
 
-📥 Knowledge_Base/Knowledge%20Base%20Guide.pdf
+📥 [View Knowledge Base](Knowledge_Base/Knowlegde%20Base%20Guide%20.pdf)
 
 ---
 

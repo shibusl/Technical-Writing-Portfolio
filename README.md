@@ -1,56 +1,115 @@
 # Shibu S L - Technical Writing Portfolio
 
-Welcome to my Technical Writing Portfolio.
+## About Me
 
-I am a Technical Writer with 4+ years of experience developing structured, user-focused documentation across Medical Device, Enterprise Risk Management, Compliance, and various domains.
+Technical Writer with 4+ years of experience developing structured, user-focused documentation across Medical Device, Enterprise Risk Management, Compliance, and various domains.
 
-## Core Competencies
+Experienced in creating:
 
-- Technical Documentation
-- SOP Development
-- Knowledge Base Development
-- DITA XML
-- Structured Authoring
+- Standard Operating Procedures (SOPs)
+- Knowledge Base Articles
 - Medical Device Documentation
+- Policies and Procedures
+- User Documentation
+- Installation Guides
+- Structured Content using DITA XML
+
+### Technical Skills
+
+- DITA XML
+- Oxygen XML Editor
 - SharePoint
 - Archer
+- Adobe FrameMaker
+- Adobe Acrobat Professional
+- Structured Authoring
 - Information Architecture
 - Documentation Lifecycle Management
+- Knowledge Management
 
-## Portfolio Samples
+---
 
-### Standard Operating Procedures
+# Portfolio Samples
 
-📄 Employee Leave Management SOP
+## 📄 Employee Leave Management SOP
 
-Demonstrates:
+A Standard Operating Procedure (SOP) documenting the employee leave request, approval, and management process.
+
+### Skills Demonstrated
+
 - Process Documentation
-- SOP Writing
-- Roles & Responsibilities
-- Workflow Documentation
-- Governance Controls
+- SOP Development
+- Workflow Design
+- Roles & Responsibilities Definition
+- Governance Documentation
 
-### Knowledge Base Articles
+📂 Location:
+SOPs/Employee Leave Management Process_SOP.pdf
 
-📄 Password Reset Guide
+---
 
-Demonstrates:
+## 📄 Password Reset Knowledge Base Guide
+
+A Knowledge Base article designed to help users recover account access through password reset and account unlock procedures.
+
+### Skills Demonstrated
+
 - Knowledge Base Authoring
-- Troubleshooting Documentation
 - End-User Documentation
-- Self-Service Documentation
-- Security Best Practices
+- Troubleshooting Documentation
+- Security Documentation
+- Self-Service Support Content
 
-## Upcoming Projects
+📂 Location:
+Knowledge_Base/Knowledge Base Guide.pdf
 
-- Software Installation Guide
-- User Guide
-- API Documentation Sample
+---
 
-## Professional Profile
+# Current Portfolio Roadmap
 
-**LinkedIn**
-www.linkedin.com/in/shibu-s-l
+✅ Employee Leave Management SOP
 
-**Email**
+✅ Password Reset Knowledge Base Guide
+
+🔄 Software Installation Guide
+
+🔄 User Guide
+
+🔄 API Documentation Sample
+
+---
+
+# Professional Experience
+
+### Rocket Mortgage
+
+Technical Writer
+
+- Create and maintain enterprise standards, policies, and procedures.
+- Collaborate with SMEs and stakeholders.
+- Manage SharePoint documentation updates.
+- Support governance and compliance documentation.
+
+### HCL Technologies
+
+Technical Writer
+
+- Developed Medical IFUs and CLSI documents.
+- Worked with DITA XML and Oxygen XML Editor.
+- Created structured documentation for medical device products and for other adhoc projects.
+
+---
+
+# Contact
+
+### LinkedIn
+
+https://www.linkedin.com/in/shibu-s-l
+
+### Email
+
 slshibu06@gmail.com
+
+---
+
+*This repository showcases my Technical Writing portfolio and documentation samples.*

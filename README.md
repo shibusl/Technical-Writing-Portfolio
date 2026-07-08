@@ -4,28 +4,50 @@
 
 Technical Writer with 4+ years of experience developing structured, user-focused documentation across Medical Device, Enterprise Risk Management, Compliance, and various domains.
 
-Experienced in creating:
+## Core Technical Writing Skills
 
+- Technical Documentation
 - Standard Operating Procedures (SOPs)
-- Knowledge Base Articles
-- Medical Device Documentation
+- Knowledge Base Development
 - Policies and Procedures
-- User Documentation
+- User Guides
 - Installation Guides
-- Structured Content using DITA XML
+- Process Documentation
+- Document Review and Quality Assurance
+- Documentation Lifecycle Management
+- SME Collaboration
+- Information Architecture
+- Structured Authoring using DITA XML
 
-### Technical Skills
+## Tools and Technologies
 
 - DITA XML
 - Oxygen XML Editor
-- SharePoint
-- Archer
 - Adobe FrameMaker
 - Adobe Acrobat Professional
-- Structured Authoring
-- Information Architecture
-- Documentation Lifecycle Management
-- Knowledge Management
+- SharePoint
+- Archer
+- COSIMA
+- Jira
+- Microsoft Office Suite
+
+## Technical Skills
+
+- XML Authoring
+- HTML
+- Content Management Systems (CMS)
+- Version Control
+- Technical Communication
+- Regulatory Documentation
+- Medical Device Documentation
+
+## Currently Learning
+
+- GitHub
+- Markdown
+- Confluence
+- API Documentation
+- Docs-as-Code Concepts
 
 ---
 

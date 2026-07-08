@@ -6,8 +6,6 @@ permalink: /
 
 # 👋 Hi, I'm Shibu S L
 
-## Technical Writer
-
 Technical Writer with 4+ years of experience developing structured, user-focused documentation across:
 
 - Medical Device Documentation

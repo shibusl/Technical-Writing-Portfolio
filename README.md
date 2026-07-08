@@ -4,7 +4,7 @@
 
 Technical Writer with 4+ years of experience developing structured, user-focused documentation across Medical Device, Enterprise Risk Management, Compliance, and various domains.
 
-## Professional Experience Highlights
+## Professional Experience
 
 ### Rocket Mortgage | Technical Writer
 

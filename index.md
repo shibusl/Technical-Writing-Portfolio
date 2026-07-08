@@ -6,53 +6,64 @@ permalink: /
 
 assets/images/banner.png
 
-# Welcome
+# Shibu S L
 
 ### Technical Writer
 
-**DITA XML | Medical Documentation | Enterprise Documentation | Knowledge Base Development**
+DITA XML • Medical Documentation • Enterprise Documentation • Knowledge Base Development
 
 ---
 
-Technical Writer with 4+ years of experience creating structured, user-focused documentation across Medical Device, Enterprise Risk Management, and Compliance domains.
+Technical Writer with 4+ years of experience developing structured, user-focused documentation across Medical Device, Enterprise Risk Management, and Compliance domains.
 
-📄 [Resume](Resume/Shibu%20S%20L_Resume.pdf)
+### Quick Links
 
-💼 [LinkedIn Profile](https://www.linkedin.com/in/shibu-s-l)
-
-📂 [Portfolio](https://shibusl.github.io/Technical-Writing-Portfolio/portfolio/)
+- [Resume](Resume/Shibu%20S%20L_Resume.pdf)
+- [💼 LinkedIn](https://www.linkedin.com/in/shibu-s-l)
+- [Portfolio](https://shibusl.github.io/Technical-Writing-Portfolio/)
 
 ---
 
 # Portfolio Highlights
 
-## 📄 SOP Documentation
+## 📄 Employee Leave Management SOP
 
-Employee Leave Management SOP
+Process documentation demonstrating SOP development, workflow design, governance controls, and stakeholder responsibilities.
 
-## 📘 Knowledge Base Documentation
+## 📘 Password Reset Guide
 
-Password Reset Guide
+Knowledge base documentation demonstrating troubleshooting workflows, self-service support, and end-user documentation.
 
-## ⚙️ Installation Documentation
+## ⚙️ Microsoft Teams Installation Guide
 
-Microsoft Teams Installation Guide
+Installation documentation demonstrating task-based writing, verification procedures, and troubleshooting.
 
 ---
 
-# Core Skills
+# Professional Experience
 
-- Technical Documentation
-- SOP Development
-- Knowledge Base Authoring
-- User Guides
-- Installation Guides
-- DITA XML
-- SharePoint
+## Rocket Mortgage
+
+Technical Writer
+
+- 500+ Standards, Policies, and Procedures
 - Archer
-- GitHub
-- Markdown
+- SharePoint
+- Documentation Governance
+
+## HCL Technologies
+
+Technical Writer
+
+- 100+ Medical IFUs
+- DITA XML
+- Oxygen XML Editor
+- Medical Device Documentation
 
 ---
 
-> Transforming complex information into clear, accurate, and user-friendly documentation. 
+# Contact
+
+📧 Email: slshibu06@gmail.com
+
+💼 LinkedIn: linkedin.com/in/shibu-s-l

@@ -16,7 +16,3 @@ slshibu2000@gmail.com
 ## Mobile
 
 +919597703637
-
-## GitHub
-
-[Github](https://github.com/shibusl)

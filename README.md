@@ -61,6 +61,20 @@ A Knowledge Base article designed to help users recover account access through p
 
 📥 [View Knowledge Base Guide](Knowledge_Base/Knowledge%20Base%20Guide.pdf)
 
+## 📄 Microsoft Teams Installation Guide
+
+A user-focused installation guide that explains how to download, install, sign in to, verify, and troubleshoot Microsoft Teams on Windows devices.
+
+### Skills Demonstrated
+
+- Installation Documentation
+- End-User Documentation
+- Troubleshooting
+- Task-Based Writing
+- Microsoft Style Guide Principles
+
+📥 [View Knowledge Base Guide](Installation_Guides/Microsoft%20Teams%20Installation%20Guide.pdf)
+
 ## 📄 Resume
 
 📥 [Download Resume](Resume/Shibu%20S%20L_Resume.pdf)

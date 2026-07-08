@@ -7,11 +7,15 @@ title: Contact
 
 ## Email
 
-slshibu06@gmail.com
+slshibu2000@gmail.com
 
 ## LinkedIn
 
 [LinkedIn Profile](https://www.linkedin.com/in/shibu-s-l)
+
+## Mobile
+
++919597703637
 
 ## GitHub
 

@@ -1,5 +1,5 @@
-title: Technical Writing Portfolio
-description: Shibu S L | Technical Writer
+title: Shibu S L
+description: ""
 theme: minima
 
 header_pages:
@@ -7,3 +7,6 @@ header_pages:
   - portfolio.md
   - resume.md
   - contact.md
+
+sass:
+  style: compressed

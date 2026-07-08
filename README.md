@@ -67,8 +67,6 @@ A Standard Operating Procedure (SOP) documenting the employee leave request, app
 
 📥 [View SOP](SOPs/Employee%20Leave%20Management%20Process_SOP.pdf)
 
----
-
 ## 📄 Password Reset Knowledge Base Guide
 
 A Knowledge Base article designed to help users recover account access through password reset and account unlock procedures.

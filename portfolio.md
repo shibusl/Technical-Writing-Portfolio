@@ -4,8 +4,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Portfolio
-
 ## 📄 Employee Leave Management SOP
 
 Process documentation demonstrating:

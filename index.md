@@ -18,9 +18,9 @@ Technical Writer with 4+ years of experience developing structured, user-focused
 
 ### Quick Links
 
-- [Resume](Resume/Shibu%20S%20L_Resume.pdf)
+- [📄 Resume](Resume/Shibu%20S%20L_Resume.pdf)
 - [💼 LinkedIn](https://www.linkedin.com/in/shibu-s-l)
-- [Portfolio](https://shibusl.github.io/Technical-Writing-Portfolio/)
+- [📂 Portfolio](https://shibusl.github.io/Technical-Writing-Portfolio/)
 
 ---
 

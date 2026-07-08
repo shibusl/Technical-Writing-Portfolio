@@ -1,28 +1,44 @@
 ---
-layout: default
+layout: page
 title: Portfolio
+permalink: /portfolio/
 ---
 
 # Portfolio
 
-## Standard Operating Procedures
+## 📄 Employee Leave Management SOP
 
-### Employee Leave Management SOP
+Process documentation demonstrating:
+
+- Workflow Documentation
+- Governance Controls
+- Roles & Responsibilities
+- SOP Development
 
 ./SOPs/Employee%20Leave%20Management%20Process_SOP.pdf
 
 ---
 
-## Knowledge Base Articles
+## 📄 Password Reset Knowledge Base Guide
 
-### Password Reset Guide
+Knowledge base documentation demonstrating:
+
+- Troubleshooting
+- Self-Service Support
+- End-User Documentation
+- Security Best Practices
 
 ./Knowledge_Base/Knowledge%20Base%20Guide.pdf
 
 ---
 
-## Installation Guides
+## 📄 Microsoft Teams Installation Guide
 
-### Microsoft Teams Installation Guide
+Installation documentation demonstrating:
+
+- Installation Procedures
+- End-User Documentation
+- Verification Steps
+- Troubleshooting
 
 ./Installation_Guides/Microsoft%20Teams%20Installation%20Guide.pdf

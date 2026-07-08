@@ -9,7 +9,7 @@ permalink: /
 
 ### Technical Writer
 
-DITA XML • Medical Documentation • Enterprise Documentation • Knowledge Base Development
+DITA XML • Medical Documentation • Standard Operating Procedures • Enterprise Documentation • End User Documentations • Installation Guides • Knowledge Base Development • HTML/Markdown Authoring
 
 ---
 

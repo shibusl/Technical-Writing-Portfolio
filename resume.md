@@ -4,9 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-# Resume
-
-📄 [Resume](Resume/Shibu%20S%20L_Resume.pdf)
+📄 [View](Resume/Shibu%20S%20L_Resume.pdf)
 
 ## Key Skills
 

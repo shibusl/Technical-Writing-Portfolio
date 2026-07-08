@@ -1,4 +1,4 @@
-title: My Portfolio
+title: 🏠 My Portfolio
 description: ""
 theme: minima
 
@@ -7,6 +7,3 @@ header_pages:
   - portfolio.md
   - resume.md
   - contact.md
-
-sass:
-  style: compressed

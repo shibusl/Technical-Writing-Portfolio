@@ -87,9 +87,7 @@ A user-focused installation guide that explains how to download, install, sign i
 
 ✅ Password Reset Knowledge Base Guide
 
-🔄 Software Installation Guide
-
-🔄 User Guide
+✅ Software Installation Guide
 
 🔄 API Documentation Sample
 

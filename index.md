@@ -24,4 +24,35 @@ Technical Writer with 4+ years of experience creating structured, user-focused d
 
 ---
 
+# Portfolio Highlights
+
+## 📄 SOP Documentation
+
+Employee Leave Management SOP
+
+## 📘 Knowledge Base Documentation
+
+Password Reset Guide
+
+## ⚙️ Installation Documentation
+
+Microsoft Teams Installation Guide
+
+---
+
+# Core Skills
+
+- Technical Documentation
+- SOP Development
+- Knowledge Base Authoring
+- User Guides
+- Installation Guides
+- DITA XML
+- SharePoint
+- Archer
+- GitHub
+- Markdown
+
+---
+
 > Transforming complex information into clear, accurate, and user-friendly documentation. 

@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: page
 title: Resume
+permalink: /resume/
 ---
 
 # Resume
 
-Download my latest resume.
-
-./Resume/Shibu%20S%20L_Resume.pdf
+📄 [Resume](Resume/Shibu%20S%20L_Resume.pdf)
 
 ## Key Skills
 
@@ -16,4 +15,6 @@ Download my latest resume.
 - SharePoint
 - Archer
 - Knowledge Management
-- Installation Guides
+- Information Architecture
+- SOP Development
+- Installation Documentation

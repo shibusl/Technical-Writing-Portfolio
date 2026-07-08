@@ -4,20 +4,15 @@ title: Home
 permalink: /
 ---
 
-# 👋 Hi, I'm Shibu S L
+# Shibu S L
 
-Technical Writer with 4+ years of experience developing structured, user-focused documentation across:
+### Technical Writer
 
-- Medical Device Documentation
-- Enterprise Documentation
-- Risk & Compliance Documentation
-- Knowledge Base Development
-- SOP Development
-- Installation Guides
+**DITA XML | Medical Documentation | Enterprise Documentation | Knowledge Base Development**
 
 ---
 
-## 🚀 Quick Access
+Technical Writer with 4+ years of experience creating structured, user-focused documentation across Medical Device, Enterprise Risk Management, and Compliance domains.
 
 📄 [Resume](Resume/Shibu%20S%20L_Resume.pdf)
 
@@ -27,56 +22,4 @@ Technical Writer with 4+ years of experience developing structured, user-focused
 
 ---
 
-## 📊 Portfolio Highlights
-
-| Document Type | Status |
-|---------------|---------|
-| SOP Documentation | ✅ |
-| Knowledge Base Articles | ✅ |
-| Installation Guides | ✅ |
-| API Documentation | 🔄 |
-
----
-
-## 🛠 Technical Skills
-
-### Documentation
-
-- Technical Documentation
-- SOP Development
-- Knowledge Base Authoring
-- Installation Guides
-- User Guides
-- Structured Authoring
-
-### Tools
-
-- Oxygen XML Editor
-- Adobe FrameMaker
-- Adobe Acrobat
-- SharePoint
-- Archer
-- Jira
-
-### Technologies
-
-- DITA XML
-- XML Authoring
-- HTML
-- Markdown
-- GitHub
-- Content Management Systems
-
----
-
-## 🏆 Achievements
-
-✅ Runner-Up – EKM Contribution Contest, HCL Technologies
-
-✅ Process Adherence Excellence Award – HCL Technologies
-
-✅ Student Director – CEG Tech Forum
-
----
-
-> Transforming complex information into clear, accurate, and user-friendly documentation.
+> Transforming complex information into clear, accurate, and user-friendly documentation. 

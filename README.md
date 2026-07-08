@@ -73,7 +73,7 @@ A user-focused installation guide that explains how to download, install, sign i
 - Task-Based Writing
 - Microsoft Style Guide Principles
 
-📥 [View Knowledge Base Guide](Installation_Guides/Microsoft%20Teams%20Installation%20Guide.pdf)
+📥 [View Installation Guide](Installation_Guides/Microsoft%20Teams%20Installation%20Guide.pdf)
 
 ## 📄 Resume
 

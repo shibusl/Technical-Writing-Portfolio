@@ -1,10 +1,9 @@
 ---
-layout: page
-title: Home
+layout: default
 permalink: /
 ---
 
-assets/images/banner.png
+<img src="assets/images/Banner.png">
 
 # Shibu S L
 

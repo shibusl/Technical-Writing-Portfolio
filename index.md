@@ -25,7 +25,7 @@ Technical Writer with 4+ years of experience developing structured, user-focused
 
 💼 [LinkedIn Profile](https://www.linkedin.com/in/shibu-s-l)
 
-📂 ./portfolio
+📂 [Portfolio](https://shibusl.github.io/Technical-Writing-Portfolio/portfolio/)
 
 ---
 

@@ -15,7 +15,7 @@ Process documentation demonstrating:
 - Roles & Responsibilities
 - SOP Development
 
-[SOP](SOPs/Employee%20Leave%20Management%20Process_SOP.pdf)
+[SOP](/Technical-Writing-Portfolio/SOPs/Employee%20Leave%20Management%20Process_SOP.pdf)
 
 ---
 
@@ -28,7 +28,7 @@ Knowledge base documentation demonstrating:
 - End-User Documentation
 - Security Best Practices
 
-[Knowledge Base Guide](Knowledge_Base/Knowledge%20Base%20Guide.pdf)
+[Knowledge Base Guide](/Technical-Writing-Portfolio/Knowledge_Base/Knowledge%20Base%20Guide.pdf)
 
 ---
 
@@ -41,4 +41,4 @@ Installation documentation demonstrating:
 - Verification Steps
 - Troubleshooting
 
-[Installation Guide](Installation_Guides/Microsoft%20Teams%20Installation%20Guide.pdf)
+[Installation Guide](/Technical-Writing-Portfolio/Installation_Guides/Microsoft%20Teams%20Installation%20Guide.pdf)

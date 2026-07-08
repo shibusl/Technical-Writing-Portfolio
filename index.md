@@ -4,7 +4,9 @@ title: Home
 permalink: /
 ---
 
-# Shibu S L
+assets/images/banner.png
+
+# Welcome
 
 ### Technical Writer
 

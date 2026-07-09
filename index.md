@@ -68,4 +68,4 @@ Technical Writer
 
 📧 Email: slshibu2000@gmail.com
 
-💼 LinkedIn: linkedin.com/in/shibu-s-l
+💼 LinkedIn: [My Profile](https://www.linkedin.com/in/shibu-s-l)

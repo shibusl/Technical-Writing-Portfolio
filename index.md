@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-<img src="{{ '/assets/images/Banner.png' | relative_url }}" width="100%" alt="Shibu S L Technical Writer">
+<img src="/assets/images/Banner.png">
 
 # Shibu S L
 

@@ -3,9 +3,9 @@ layout: default
 title: About
 ---
 
-# About Me
+#👋 Hi, I'm Shibu S L
 
-I am a Technical Writer with 4+ years of experience creating structured, user-focused documentation.
+A Technical Writer with 4+ years of experience creating structured, user-focused documentation.
 
 ## Professional Experience Highlights
 

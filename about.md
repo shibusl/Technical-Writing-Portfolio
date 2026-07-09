@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-#👋 Hi, I'm Shibu S L
+# 👋 Hi, I'm Shibu S L
 
 A Technical Writer with 4+ years of experience creating structured, user-focused documentation.
 

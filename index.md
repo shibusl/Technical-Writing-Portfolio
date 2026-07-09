@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-<img src="/assets/images/Banner.png">
+<img src="assets/images/Banner.png">
 
 # Shibu S L
 

@@ -34,9 +34,58 @@ A Technical Writer with 4+ years of experience creating structured, user-focused
 
 ## Core Skills
 
+### Technical Writing
+
 - Technical Documentation
+- Standard Operating Procedures (SOPs)
+- Knowledge Base Development
+- Installation Guides
+- User Documentation
+- Policies and Procedures Documentation
+- Medical Device Documentation
+- Regulatory Documentation
+
+### Documentation Management
+
+- Documentation Lifecycle Management
+- Content Management Systems (CMS)
+- Knowledge Management
+- Information Architecture
+- Document Review and Quality Assurance
+- Version Control
+- Content Governance
+
+### Structured Authoring
+
 - DITA XML
+- XML Authoring
+- Structured Authoring
+- Content Reuse
+- HTML
+- Markdown
+
+### Collaboration
+
+- SME Collaboration
+- Cross-Functional Stakeholder Management
+- Requirements Gathering
+- Content Validation
+- Peer Reviews
+
+### Tools
+
+- Oxygen XML Editor
+- Adobe FrameMaker
+- Adobe Acrobat Professional
 - SharePoint
 - Archer
-- Knowledge Bases
-- SOP Development
+- COSIMA
+- Jira
+- GitHub
+
+### Emerging Skills
+
+- API Documentation Fundamentals
+- Docs-as-Code
+- Confluence
+- GitHub Pages

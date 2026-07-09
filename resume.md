@@ -10,6 +10,9 @@ permalink: /resume/
 
 - Technical Writing
 - DITA XML
+- HTML
+- COSIMA
+- Basics of Markdown 
 - SharePoint
 - Archer
 - Knowledge Management

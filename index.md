@@ -14,7 +14,7 @@ DITA XML • Medical Documentation • Standard Operating Procedures • Enterpr
 ---
 
 
-Technical Writer with 4+ years of experience developing structured, user-focused documentation across Medical Device, Enterprise Risk Management, and Compliance domains.
+With 4+ years of experience developing structured, user-focused documentation across Medical Device, Enterprise Risk Management, and Compliance domains.
 
 ### Quick Links
 
